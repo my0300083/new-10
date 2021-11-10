@@ -4,3 +4,4 @@
 커밋
 
 amend 해보기 - 성공
+cherry-pick 해보기
